@@ -1,3 +1,4 @@
+![Informe de Ventas](https://github.com/user-attachments/assets/c8479a41-a3ab-4cfb-b87f-5203f4fe6385)
 Este proyecto aborda el análisis de indicadores clave relacionados con las ventas totales, el rendimiento por vendedor, producto y región. 
 A continuación, se presenta el análisis completo, resaltando las funcionalidades implementadas y los hallazgos principales.
 
