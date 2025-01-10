@@ -1,35 +1,57 @@
 ![Informe de Ventas](https://github.com/user-attachments/assets/c8479a41-a3ab-4cfb-b87f-5203f4fe6385)
-Este proyecto aborda el análisis de indicadores clave relacionados con las ventas totales, el rendimiento por vendedor, producto y región. 
-A continuación, se presenta el análisis completo, resaltando las funcionalidades implementadas y los hallazgos principales.
-
-Funcionalidades de Power BI Aplicadas 
 
 
-✅ Power Query: Utilizado para importar y transformar los datos desde las tablas de ventas, vendedores, productos y regiones.
+# 📊 INFORME VENTAS: Análisis de Desempeño
 
+## Descripción del Proyecto
+Este panel interactivo proporciona una visión comprensiva del desempeño de ventas de nuestra empresa. Con datos desglosados por vendedor, producto y región, este informe nos permite identificar áreas de alto rendimiento y oportunidades de mejora.
 
-✅ Power Pivot: Empleado para el modelado de datos, estableciendo relaciones entre las tablas.
+## Componentes del Panel
 
+### Ingresos Totales
+- **Total de Ventas**: $339,533
 
-✅ Lenguaje DAX: Utilizado para crear medidas calculadas, incluyendo ventas totales, ventas por vendedor, productos y región.
+### Desglose por Vendedor
+El gráfico de barras muestra las ventas realizadas por cada vendedor:
+- **David**: $139,805
+- **Karen**: $50,490
+- **Kevin**: $48,310
+- **Sara**: $37,373
+- **Ana**: $33,202
+- **Lucas**: $30,353
 
-Observaciones Detalladas 
+### Ventas por Producto
+El gráfico de radar destaca las ventas por cada categoría de producto:
+- **Dispositivos**: $163,519
+- **Sistemas**: $133,642
+- **Accesorios**: $42,372
 
-☑️ Ventas por Vendedor: A partir del análisis de los datos, se identificó que el vendedor David lidera las ventas con un total de $139,805. Esto resalta la importancia de seguir apoyando y motivando a los vendedores de alto rendimiento.
+### Ventas por Región
+El gráfico circular y el desglose de datos muestran el rendimiento de ventas por región:
+- **Central**: $190,295 (56.05%)
+- **Oeste**: $85,683 (25.24%)
+- **Este**: $63,556 (18.72%)
 
-☑️ Ventas por Producto: El producto "Dispositivos" encabeza las ventas con un total de $163,519, lo que representa una gran parte de las ventas totales. Esto indica una fuerte preferencia por estos productos entre los clientes.
+### Máximos de Ventas
+- **Importe Máximo de Venta**: $111,420
 
-☑️ Ventas por Región: La región Central concentra el 56.05% de las ventas totales, lo que refuerza la necesidad de focalizar estrategias de marketing y distribución en esta área clave.
+## Gráficos del Panel
 
-☑️ Importe Máximo de Venta: El importe máximo de una sola venta registrada fue de $111,420, lo que sugiere la existencia de transacciones significativas que pueden influir en la estrategia de ventas y precios.
+### Monto de Ventas por Región
+Un gráfico circular que visualiza la proporción de ventas por región:
+- **Central**: 56.05%
+- **Oeste**: 25.24%
+- **Este**: 18.72%
 
-Beneficios Identificados 
+### Monto de Ventas por Producto
+Un gráfico de radar que muestra el monto de ventas por cada tipo de producto, destacando que los dispositivos tienen el mayor monto de ventas.
 
-• Optimización Logística: Al identificar las regiones con mayor venta, se pueden planificar mejor las rutas de distribución, reduciendo costos y tiempos de transporte. 
+### Monto de Ventas por Vendedor
+Un gráfico de barras que presenta las ventas por vendedor, con David liderando con el mayor monto de ventas.
 
-• Personalización de Estrategias: El análisis permite identificar patrones de consumo por vendedor, producto y región, ayudando a focalizar las estrategias de marketing. 
+## Conclusión
+Este panel proporciona una herramienta poderosa para analizar y comprender las ventas de nuestra empresa. La capacidad de desglosar los datos por vendedor, producto y región permite a los gestores identificar tendencias y tomar decisiones informadas para mejorar nuestras estrategias de ventas y marketing.
 
-• Identificación de Oportunidades: Al analizar el comportamiento de ventas por vendedor y producto, se pueden detectar oportunidades para mejorar el rendimiento general.
 
 
 
