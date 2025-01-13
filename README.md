@@ -45,9 +45,9 @@ Selección del modelo óptimo basada en métricas de evaluación (R², MAE, RMSE
 Librerías:
      -Python: pandas, numpy, scikit-learn, matplotlib, seaborn.
       Opcional: TensorFlow, Keras (para modelos más avanzados).
-# Dataset:
-      El panel de datos debe cargarse en formato CSV o similar. Asegúrate de seguir la estructura proporcionada en el archivo data/.
+# Dataset: El panel de datos debe cargarse en formato CSV o similar. Asegúrate de seguir la estructura proporcionada en el archivo data/.
 
+     
 ### Conclusión
 -Este análisis predictivo demuestra cómo los datos históricos pueden ser utilizados para proyectar tendencias futuras. Las predicciones generadas permiten tomar decisiones más informadas y alineadas con los objetivos estratégicos.
 
