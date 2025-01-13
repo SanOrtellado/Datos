@@ -30,7 +30,7 @@ Selección del modelo óptimo basada en métricas de evaluación (R², MAE, RMSE
 
 ### Resultados Visuales:
 
--Creación de gráficos y dashboards interactivos utilizando herramientas como Matplotlib, Seaborn o Power BI para facilitar la interpretación de los resultados.
+-Creación de gráficos y dashboards interactivos utilizando herramientas como  Power BI para facilitar la interpretación de los resultados.
 
 # Resultados Destacados
 -Patrón Descubierto: Se observó una fuerte correlación entre las variables [Variable 1] y [Variable 2], lo que permitió generar proyecciones precisas.
