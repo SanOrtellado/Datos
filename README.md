@@ -35,7 +35,9 @@ Selección del modelo óptimo basada en métricas de evaluación (R², MAE, RMSE
 ### Resultados Destacados
 - Patrón Descubierto: Se observó una fuerte correlación entre las variables Región y Monto de Ventas, lo que permitió generar proyecciones precisas.
 
-# Predicciones: El modelo predijo con un 90% de precisión los valores de Monto de Ventas por Región.
+# Predicciones:
+
+El modelo predijo con un 90% de precisión los valores de Monto de Ventas por Región.
 
 # Insights Clave:
 - Las acciones relacionadas con la Región Central tienen mayor probabilidad de influir positivamente en el resultado.
