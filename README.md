@@ -50,7 +50,8 @@ Librerías:
 Dataset: El panel de datos debe cargarse en formato CSV o similar. Asegúrate de seguir la estructura proporcionada en el archivo data/.
 
      
-### Conclusión
+# Conclusión
+
 -Este análisis predictivo demuestra cómo los datos históricos pueden ser utilizados para proyectar tendencias futuras. Las predicciones generadas permiten tomar decisiones más informadas y alineadas con los objetivos estratégicos.
 
 
