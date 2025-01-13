@@ -32,13 +32,14 @@ Selección del modelo óptimo basada en métricas de evaluación (R², MAE, RMSE
 
 -Creación de gráficos y dashboards interactivos utilizando herramientas como  Power BI para facilitar la interpretación de los resultados.
 
-# Resultados Destacados
--Patrón Descubierto: Se observó una fuerte correlación entre las variables [Variable 1] y [Variable 2], lo que permitió generar proyecciones precisas.
--Predicciones: El modelo predijo con un 90% de precisión los valores de [Variable].
+### Resultados Destacados
+- Patrón Descubierto: Se observó una fuerte correlación entre las variables Región y Monto de Ventas, lo que permitió generar proyecciones precisas.
+
+# Predicciones: El modelo predijo con un 90% de precisión los valores de Monto de Ventas por Región.
 
 # Insights Clave:
--Las acciones relacionadas con [Factor X] tienen mayor probabilidad de influir positivamente en el resultado.
-[Variable Y] tiende a mostrar un comportamiento estacional, lo que sugiere un ajuste periódico en [estrategia/proceso].
+- Las acciones relacionadas con la Región Central tienen mayor probabilidad de influir positivamente en el resultado.
+- El Monto de Ventas tiende a mostrar un comportamiento estacional, lo que sugiere un ajuste periódico en la estrategia de ventas.
 
 # Requisitos
 Librerías:
